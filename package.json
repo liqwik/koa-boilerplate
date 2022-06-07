@@ -1,0 +1,15 @@
+{
+  "name": "koa-boilerplate",
+  "version": "1.0.0",
+  "description": "Koa Boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/liqwik/koa-boilerplate.git",
+  "author": "Liqwik <liqwik.wang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
